@@ -14,4 +14,4 @@ Questions? Ask on P2PU's [Community Forum](https://community.p2pu.org/c/tech/cou
 ---
 Course-in-a-Box was built by [Peer 2 Peer University](https://www.p2pu.org) using the [P2PU Jekyll course template](https://github.com/p2pu/jekyll-course-template) and shared under an MIT License.
 
-Course content ("Modules") are shared under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+
